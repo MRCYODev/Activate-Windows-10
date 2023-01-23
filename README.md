@@ -1,7 +1,7 @@
 
-# Activate Windows 10
+# Activate Windows 10/11
 
-Activate Windows 10 easily with simple steps
+Activate Windows 10/11 easily with simple steps
 
 ## 🍄 Steps
 
@@ -29,7 +29,7 @@ only cmd(Command prompt) as Administrator nothing else
 you need to press in to search icon in your pc and write cmd or Command prompt and right click on cmd and click **Run as administrator**
 ## Feedback
 
-If you have any feedback, please reach out to us at [Feedback](https://github.com/MRCYODev/Activate-Windows-10/issues)
+If you have any feedback, please reach out to us at [Feedback](https://github.com/MRCYODev/Activate-Windows-10-and-11/issues)
 
 
 ## Support
