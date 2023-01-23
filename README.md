@@ -45,5 +45,6 @@ To run use, the following command.
   slmgr /skms kms8.msguides.com
   slmgr /ato
   shutdown /r /t 10
+  cls
 ```
 
